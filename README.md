@@ -1,4 +1,4 @@
-#  Productivité agricole en Afrique centrale : Cameroun grenier de l'Afrique Centrale?
+#  Productivité agricole en Afrique centrale : Cameroun grenier de l'Afrique Centrale ?
 
 ## 📌 Contexte
 Le Cameroun est souvent qualifié de **“grenier de l’Afrique centrale”**. Ce projet explore cette affirmation en comparant les performances agricoles du Cameroun avec celles de ses voisins frontaliers (Nigeria, Tchad, RCA, Gabon, Guinée équatoriale), à partir des données **FAOSTAT (2008–2023)**.
