@@ -1,4 +1,4 @@
-# 🌍 Productivité agricole en Afrique centrale : Cameroun vs pays voisins
+# 🌍 Productivité agricole en Afrique centrale : Cameroun grenier de l'Afrique Centrale?
 
 ## 📌 Contexte
 Le Cameroun est souvent qualifié de **“grenier de l’Afrique centrale”**.  
