@@ -25,7 +25,7 @@ Ce projet explore cette affirmation en comparant les performances agricoles du C
 - **Corrélations** : Production dépend quasi exclusivement de la superficie (r=0,92). Le rendement n’explique presque rien (r=0,15).  
 - **Conclusion** : L’agriculture reste **extensive**. Le Cameroun confirme son rôle de grenier mais doit consolider ses gains par l’**agroécologie**.
 
-## 🌱 Recommandations (FAO + Policy Brief CIRAD)
+## 🌱 Recommandations 
 - Réduire la dépendance aux pesticides et engrais chimiques coûteux et nocifs.  
 - Miser sur les **rotations de cultures, agroforesterie, fertilisation organique, irrigation de proximité**.  
 - Investir dans le **stockage, la transformation locale et les corridors commerciaux régionaux**.  
