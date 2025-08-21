@@ -1,4 +1,4 @@
-# 🌍 Productivité agricole en Afrique centrale : Cameroun grenier de l'Afrique Centrale?
+#  Productivité agricole en Afrique centrale : Cameroun grenier de l'Afrique Centrale?
 
 ## 📌 Contexte
 Le Cameroun est souvent qualifié de **“grenier de l’Afrique centrale”**.  
@@ -35,7 +35,7 @@ Ce projet explore cette affirmation en comparant les performances agricoles du C
 - `data/` → Données FAOSTAT nettoyées.  
 - `notebooks/` → Analyses exploratoires en Python (rendement, production, corrélation).  
 - `sql/` → Scripts MySQL pour structuration de la base.  
-- `report/` → Synthèse et recommandations (FAO style).  
+- `report/` → Synthèse et recommandations.  
 
 ## 📬 Contact
 Projet conduit par **Gérard De La Paix Bayiha**  
